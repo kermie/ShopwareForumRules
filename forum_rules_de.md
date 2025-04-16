@@ -1,6 +1,6 @@
 ## Willkommen im Shopware Community Forum!
 
-Egal, ob du neu bist und Unterstützung suchst oder Fragen zur Einrichtung von Shopware hast – du bist hier genau richtig. Wir sind eine hilfsbereite Community, die gerne unterstützt. Sobald du dich besser auskennst, ermutigen wir dich, dein Wissen weiterzugeben und anderen zu helfen. Um eine angenehme Atmosphäre für alle zu gewährleisten, haben wir die folgenden Regeln aufgestellt. Verstöße können zu Ermahnungen, Bearbeitungen oder Löschung von Beiträgen führen. Wiederholte Verstöße können weitere Maßnahmen nach sich ziehen.
+Egal, ob du neu bist und Unterstützung suchst oder Fragen zur Einrichtung von Shopware hast – du bist hier genau richtig. Wir sind eine hilfsbereite Community, die gerne unterstützt. Sobald du dich besser auskennst ermutigen wir dich, dein Wissen weiterzugeben und anderen zu helfen. Um eine angenehme Atmosphäre für alle zu gewährleisten, haben wir die folgenden Regeln aufgestellt. Verstöße können zu Ermahnungen, Bearbeitungen oder Löschung von Beiträgen führen. Wiederholte Verstöße können weitere Maßnahmen nach sich ziehen.
 
 ### 1. Registrierung und Konto
 
@@ -8,7 +8,7 @@ Egal, ob du neu bist und Unterstützung suchst oder Fragen zur Einrichtung von S
 
 1.2. Wähle einen respektvollen Benutzernamen und Avatar. Stelle sicher, dass dein Avatar keine Urheberrechte verletzt und sei bereit, eine Genehmigung nachzuweisen, falls erforderlich.
 
-1.3. Du kannst einen Link zu deiner persönlichen Website oder deinem Online-Shop angeben. Vermeide aufdringliche Formatierungen, da der Fokus auf dem Inhalt bleiben sollte. Persönliche Daten wie Telefonnummern, E-Mails oder Adressen sollten nicht in öffentlichen Beiträgen geteilt werden.
+1.3. Du kannst in deinem Profil einen Link zu deiner persönlichen Website oder deinem Online-Shop angeben. Vermeide aufdringliche Formatierungen, da der Fokus auf dem Inhalt bleiben sollte. Persönliche Daten wie Telefonnummern, E-Mails oder Adressen sollten nicht in öffentlichen Beiträgen geteilt werden.
 
 1.4. Mehrere Konten pro Nutzer sowie geteilte Gruppenaccounts sind nicht gestattet und werden entfernt.
 
@@ -36,7 +36,7 @@ Egal, ob du neu bist und Unterstützung suchst oder Fragen zur Einrichtung von S
 
 2.11. Gib eine Rückmeldung, wenn eine vorgeschlagene Lösung dein Problem behoben hat. Dies hilft nicht nur dem Helfer, sondern auch zukünftigen Nutzern.
 
-2.12. Offensichtliche Werbung und Anfragen zu bezahltem Support außerhalb des Forums sind nicht erwünscht. Die Moderation entscheidet über die Angemessenheit.
+2.12. Offensichtliche Werbung und Anfragen zu bezahltem Support außerhalb des Forums sind nicht erwünscht. Die Moderatoren entscheiden über die Angemessenheit.
 
 ### 3. Rechtliche Hinweise und Beitragsregeln
 
@@ -44,9 +44,9 @@ Egal, ob du neu bist und Unterstützung suchst oder Fragen zur Einrichtung von S
 
 3.2. Halte dich an gesetzliche Vorgaben und vermeide Verstöße gegen Unternehmens- und Persönlichkeitsrechte. Anfragen oder Diskussionen zu illegalen Aktivitäten sind verboten.
 
-3.3. Private Nachrichten dürfen nicht ohne Zustimmung aller Beteiligten veröffentlicht werden.
+3.3. Private Nachrichten - auch in Auszügen - dürfen nicht ohne Zustimmung aller Beteiligten veröffentlicht werden. Das betrifft auch Nachrichten, die du z.B. vom Support-Team erhalten hast.
 
-3.4. Negative Aussagen über Personen, Unternehmen, Organisationen, Produkte oder Dienstleistungen ohne Zustimmung können rechtliche Folgen haben und sind nicht erlaubt.
+3.4. Negative Aussagen i.S.v. Schmähkritik über Personen, Unternehmen, Organisationen, Produkte oder Dienstleistungen ohne Zustimmung können rechtliche Folgen haben und sind nicht erlaubt.
 
 3.5. Kommerzielle Links sind nur erlaubt, wenn sie thematisch relevant sind.
 
