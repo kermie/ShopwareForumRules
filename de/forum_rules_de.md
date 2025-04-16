@@ -14,7 +14,7 @@ Egal, ob du neu bist und Unterstützung suchst oder Fragen zur Einrichtung von S
 
 ### 2. Verhalten im Forum
 
-2.1. Achte auf einen offenen, höflichen und respektvollen Umgang. Hinter jedem Beitrag steht eine Person mit Gefühlen.
+2.1. Achte auf einen offenen, höflichen und respektvollen Umgang. Persönliche Angriffe, Beleidigungen, Beschimpfungen oder abwertende Kommentare gegenüber anderen Mitgliedern sind hier nicht erwünscht und werden nicht toleriert. Hinter jedem Beitrag steht eine Person mit Gefühlen.
 
 2.2. In dieser Community bevorzugen wir eine lockere, informelle Sprache, um eine angenehme Atmosphäre zu fördern.
 
@@ -37,6 +37,8 @@ Egal, ob du neu bist und Unterstützung suchst oder Fragen zur Einrichtung von S
 2.11. Gib eine Rückmeldung, wenn eine vorgeschlagene Lösung dein Problem behoben hat. Dies hilft nicht nur dem Helfer, sondern auch zukünftigen Nutzern.
 
 2.12. Offensichtliche Werbung und Anfragen zu bezahltem Support außerhalb des Forums sind nicht erwünscht. Die Moderatoren entscheiden über die Angemessenheit.
+
+2.13. Unwahre Aussagen oder falsche Informationen, die vorsätzlich geäußert werden, um andere zu täuschen, zu provozieren oder den sachlichen Diskurs zu stören, haben in diesem Forum keinen Platz.
 
 ### 3. Rechtliche Hinweise und Beitragsregeln
 
