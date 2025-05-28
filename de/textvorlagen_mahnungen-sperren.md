@@ -1,17 +1,17 @@
 # Textvorlagen für Ermahnungen, Abmahnungen, temporäre und dauerhafte Sperren
 
-## ✅ 1. Ermahnung – freundlicher Hinweis
+## 1. Ermahnung – freundlicher Hinweis
 
-**📌 Hinweis zu deinem Beitrag im Forum**
+**Hinweis zu deinem Beitrag im Forum**
 
 Hallo @username,
 
-vielen Dank für deinen Beitrag im Forum. Uns ist aufgefallen, dass dein Beitrag gegen eine unserer Forenregeln verstoßen hat – konkret *[z. B. „Off-Topic im Technikbereich“ oder „fehlende Kennzeichnung von Code“]*.
+vielen Dank für Deinen Beitrag im Forum. Uns ist aufgefallen, dass Dein Beitrag gegen eine unserer Forenregeln verstoßen hat – konkret *[z. B. „Off-Topic im Technikbereich“*.
 
-Das kann mal passieren – daher möchten wir dich einfach freundlich darauf hinweisen, in Zukunft bitte auf *[Regel/Verhalten]* zu achten.
+Das kann mal passieren. Daher möchten wir dich freundlich darauf hinweisen, in Zukunft bitte auf Dein Verhalten zu achten.
 
 Du findest unsere vollständigen Regeln hier:  
-👉 [Forenregeln ansehen](https://github.com/kermie/ShopwareForumRules/blob/main/forum_rules_de.md)
+👉 [Forenregeln](https://forum.shopware.com/faq)
 
 Vielen Dank für dein Verständnis und weiterhin viel Freude im Forum!
 
@@ -20,16 +20,16 @@ Vielen Dank für dein Verständnis und weiterhin viel Freude im Forum!
 
 ---
 
-## ⚠️ 2. Erste Abmahnung – offizieller Hinweis
+## 2. Erste Abmahnung – offizieller Hinweis
 
-**⚠️ Abmahnung wegen Regelverstoß**
+**Abmahnung wegen Regelverstoß**
 
 Hallo @username,
 
 leider müssen wir dich darauf hinweisen, dass dein Beitrag gegen unsere Forenregeln verstößt – konkret *[Regel nennen]*.  
 Du hattest hierzu bereits einen freundlichen Hinweis erhalten.
 
-Wir sehen uns daher gezwungen, diesen Verstoß **offiziell abzumahnen**.
+Wir sehen uns daher gezwungen, diesen Verstoß hiermit **offiziell abzumahnen**.
 
 Bitte beachte: Bei weiteren Regelverstößen behalten wir uns zusätzliche Maßnahmen vor – einschließlich temporärer Sperren.
 
@@ -38,49 +38,49 @@ Bitte beachte: Bei weiteren Regelverstößen behalten wir uns zusätzliche Maßn
 
 ---
 
-## ⚠️⚠️ 3. Zweite Abmahnung – letzte Warnung
+## 3. Zweite Abmahnung – letzte Warnung
 
-**🚨 Zweite Abmahnung – Letzte Warnung vor Sperre**
+**Zweite Abmahnung – Letzte Warnung vor Sperre**
 
 Hallo @username,
 
-trotz vorheriger Hinweise und Abmahnung hast du erneut gegen unsere Forenregeln verstoßen – *[Verstoß kurz beschreiben]*.
+trotz vorheriger Hinweise und Abmahnung hast Du erneut gegen unsere Forenregeln verstoßen – *[Verstoß kurz beschreiben]*.
 
-Dies ist deine **zweite und letzte Abmahnung**.  
+Dies ist Deine **zweite und letzte Abmahnung**.  
 Ein weiterer Verstoß wird eine **temporäre Sperre** nach sich ziehen.
 
-Wir bitten dich, dich künftig regelkonform zu verhalten.
+Wir bitten darum, dass Du Dich künftig regelkonform verhälst.
 
 —  
 **Dein Moderationsteam**
 
 ---
 
-## 🔒 4. Temporäre Sperre – Rückkehr möglich
+## 4. Temporäre Sperre – Rückkehr möglich
 
-**🔒 Temporäre Sperre deines Accounts**
+**Temporäre Sperre deines Accounts**
 
 Hallo @username,
 
-aufgrund wiederholter Verstöße gegen unsere Forenregeln wurde dein Account temporär für **[z. B. 7 Tage]** gesperrt.
+aufgrund wiederholter Verstöße gegen unsere Forenregeln wurde Dein Account temporär für **eine Woche** gesperrt.
 
 Dies ist keine dauerhafte Maßnahme. Nach Ablauf der Sperre kannst du wieder aktiv teilnehmen – sofern du dich künftig an die Regeln hältst.
 
 Hier findest du sie zur Erinnerung:  
-👉 [Forenregeln](https://github.com/kermie/ShopwareForumRules/blob/main/forum_rules_de.md)
+👉 [Forenregeln](https://forum.shopware.com/faq)
 
 —  
 **Dein Moderationsteam**
 
 ---
 
-## ❌ 5. Dauerhafte Sperre – nach mehrfachen oder schweren Verstößen
+## 5. Dauerhafte Sperre – nach mehrfachen oder schweren Verstößen
 
-**🚫 Dauerhafte Sperre deines Accounts**
+**Dauerhafte Sperre deines Accounts**
 
 Hallo @username,
 
-wir haben deinen Account dauerhaft gesperrt. Grund dafür sind *mehrfache oder schwerwiegende Verstöße* gegen unsere Forenregeln – insbesondere:  
+wir haben Deinen Account dauerhaft gesperrt. Grund dafür sind *mehrfache oder schwerwiegende Verstöße* gegen unsere Forenregeln – insbesondere:  
 *[Verstoß hier konkret benennen]*.
 
 Wir haben zuvor mehrfach auf dein Verhalten hingewiesen. Leider hat sich nichts geändert.
