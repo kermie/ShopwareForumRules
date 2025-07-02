@@ -32,15 +32,17 @@ Um eine angenehme Atmosphäre für alle zu gewährleisten, haben wir die folgend
 
 2.8. Jedes Thema sollte in einem einzigen Thread bleiben. Doppelposts in verschiedenen Sprachen oder Kategorien beschleunigen keine Antworten.
 
-2.9. Nutze vor dem Erstellen eines neuen Themas die Suchfunktion. Viele Fragen wurden bereits beantwortet. Falls keine Lösung gefunden wird oder Informationen veraltet sind, darf ein neuer Thread eröffnet werden.
+2.9. Die Thread-Sprache orientiert sich am Erstbeitrag. Antworten in anderen Sprachen sind nicht gestattet und werden gelöscht.
 
-2.10. Wähle klare und aussagekräftige Titel ohne durchgehende Großschreibung. Beschreibe dein Problem detailliert und gib relevante Systeminformationen an.
+2.10. Nutze vor dem Erstellen eines neuen Themas die Suchfunktion. Viele Fragen wurden bereits beantwortet. Falls keine Lösung gefunden wird oder Informationen veraltet sind, darf ein neuer Thread eröffnet werden.
 
-2.11. Gib eine Rückmeldung, wenn eine vorgeschlagene Lösung dein Problem behoben hat. Dies hilft nicht nur dem Helfer, sondern auch zukünftigen Nutzern.
+2.11. Wähle klare und aussagekräftige Titel ohne durchgehende Großschreibung. Beschreibe dein Problem detailliert und gib relevante Systeminformationen an.
 
-2.12. Offensichtliche Werbung oder die Vermittlung von bezahltem Support außerhalb des Forums sind nicht erlaubt. Die Moderatoren entscheiden über die Angemessenheit.
+2.12. Gib eine Rückmeldung, wenn eine vorgeschlagene Lösung dein Problem behoben hat. Dies hilft nicht nur dem Helfer, sondern auch zukünftigen Nutzern.
 
-2.13. Vorsätzliche Falschinformationen oder Hetze, die lediglich zur Provokation oder Störung des sachlichen Diskurses geeignet sind, werden nicht geduldet.
+2.13. Offensichtliche Werbung oder die Vermittlung von bezahltem Support außerhalb des Forums sind nicht erlaubt. Die Moderatoren entscheiden über die Angemessenheit.
+
+2.14. Vorsätzliche Falschinformationen oder Hetze, die lediglich zur Provokation oder Störung des sachlichen Diskurses geeignet sind, werden nicht geduldet.
 
 ### 3. Rechtliche Hinweise und Beitragsregeln
 
